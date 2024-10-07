@@ -1,0 +1,26 @@
+#include <iostream>
+using namespace std;
+
+void menu(string pilihan, string menu1, string menu2, string menu3, string menu4, char pilihanMenu){
+
+cout << pilihan << endl;
+cout << "1. " << menu1 << endl;
+cout << "2. " << menu2 << endl;
+cout << "3. " << menu3 << endl;
+cout << "4. " << menu4 << endl;
+
+cout << "Silahkan pilih menu yang ada inginkan: ";
+cin >> pilihanMenu;
+
+  if(pilihanMenu == 
+    cout << "Menu yang anda pilih: " << pilihanMenu << endl;
+  }else{
+    cout << "Pilihan anda tidak ada di menu" << endl;
+  }
+}
+
+int main(){
+int menu;
+
+menu
+  
